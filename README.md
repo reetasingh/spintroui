@@ -14,3 +14,12 @@ Update the Readme with your username in your branch and git push;
 Don’t forget to click Save!
 
 
+Excercise 2:
+
+Edit your original pipeline and add a “Deploy (Manifest)” to the end
+● Use account “eks-ps-dev”
+● For the text, copy this gist:
+https://go.armory.io/training-gist-01
+● Change “<USERNAME>” to your username
+● Save your changes
+● Trigger your pipeline by making another commit to your branch
