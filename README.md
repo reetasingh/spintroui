@@ -1,2 +1,2 @@
 # spintroui
-Hello, Spinnaker
+Hello, Spinnaker!
