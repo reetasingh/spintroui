@@ -1,4 +1,4 @@
 # spintroui
 
-Making a change to trigger the pipeline ..
+Making a change to trigger the pipeline ...
 
